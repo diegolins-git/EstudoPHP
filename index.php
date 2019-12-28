@@ -1,7 +1,5 @@
 <?php
-echo "Olá mundo";
-<<<<<<< HEAD
+echo "Olá mundo alterado";
+echo "Olá HCODE";
 ?>
-=======
-?>
->>>>>>> 93b4be4c0d6f7953959089f7c1dec5f522fbf935
+
