@@ -1,5 +1,5 @@
 <?php
-echo "Olá mundo alterado";
-echo "Olá HCODE";
+echo "Olá mundo - alterado diereto do Desktop";
+echo "Olá HCODE - alterado diereto do Desktop";
 ?>
 
